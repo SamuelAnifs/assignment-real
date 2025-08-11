@@ -1,0 +1,50 @@
+1.  Explain cloud computing and how it defers from on prem environments.
+
+Cloud computing refers to the delivery of computing services—such as servers, storage, databases, networking, software, and analytics—over the internet ("the cloud") on a pay-as-you-go basis. Instead of owning physical hardware or maintaining data centers, users access resources hosted by third-party providers like Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform (GCP). These services are scalable, flexible, and accessible from anywhere with an internet connection.
+
+Key characteristics of cloud computing:
+
+On-demand self-service: Users can provision resources (e.g., storage, compute power) without direct interaction with the provider.
+
+Scalability: Resources can be scaled up or down based on demand, ensuring cost efficiency and performance.
+
+Accessibility: Services are available over the internet, enabling remote access and collaboration.
+
+Types of cloud services:
+
+Infrastructure as a Service (IaaS): Virtualized computing resources (e.g., virtual machines, storage).
+
+Platform as a Service (PaaS): Tools and environments for developing and deploying applications.
+
+Software as a Service (SaaS): Fully managed software applications (e.g., Google Workspace, Dropbox).
+Deployment models:
+
+Public cloud: Shared infrastructure managed by a provider.
+
+Private cloud: Dedicated infrastructure for a single organization.
+
+Hybrid cloud: Combination of public and private clouds for flexibility.
+On-Premises (On-Prem) Environments:On-premises computing refers to IT infrastructure (servers, storage, networking equipment) hosted and managed within an organization’s physical facilities. The organization is responsible for purchasing, maintaining, and upgrading hardware and software, as well as managing security, backups, and disaster recovery.
+
+Key characteristics of on-premises environments:
+
+Full control: Organizations own and manage all hardware, software, and data.
+
+Fixed capacity: Resources are limited to the purchased hardware, requiring upfront investment and planning for peak loads.
+
+Physical location: Infrastructure is housed in the organization’s data center or facility.
+Maintenance: IT staff handle updates, security patches, and hardware maintenance.
+
+2 List five advantages of on prem environments over the public cloud.
+
+a. Greater Control and Customization: On-premises environments allow organizations to fully control hardware, software, and configurations, enabling tailored solutions to meet specific needs, which is often critical for industries with unique requirements (e.g., finance or healthcare).
+
+b. Enhanced Data Security and Compliance: Organizations have complete responsibility for data security, which can be advantageous for meeting strict regulatory or compliance requirements (e.g., HIPAA, GDPR), as data remains within the organization’s physical infrastructure.
+
+c. Predictable Long-Term Costs: While on-premises requires high upfront costs, it can be more cost-effective over time for stable workloads, avoiding recurring cloud subscription fees and potential vendor lock-in.
+
+d. No Dependency on Internet Connectivity: On-premises systems operate independently of internet access, ensuring reliability in areas with unstable connectivity or for applications requiring low latency and local processing.
+
+e. Data Sovereignty and Privacy: Organizations can ensure data resides in a specific geographic location, avoiding concerns about public cloud providers storing data in multiple or undisclosed regions, which is crucial for compliance with local data protection laws.
+
+
